@@ -1,4 +1,4 @@
-# Customer Segmentation Project README
+# Customer Segmentation Project
 
 ## Overview
 This repository contains a customer segmentation project aimed at understanding customer behavior using Exploratory Data Analysis (EDA), Principal Component Analysis (PCA), and K-Means clustering. The main objective of this analysis is to segment customers based on their attributes and interactions with the business, enabling targeted marketing strategies and personalized customer experiences.
